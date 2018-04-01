@@ -1,7 +1,7 @@
-#include<cstdio>
-#include<iostream>
-#include<set>
-#include<algorithm>
+#include <cstdio>
+#include <iostream>
+#include <set>
+#include <algorithm>
 using namespace std;
 multiset<int> T;
 pair<int, int> c[100000], g[100000];
